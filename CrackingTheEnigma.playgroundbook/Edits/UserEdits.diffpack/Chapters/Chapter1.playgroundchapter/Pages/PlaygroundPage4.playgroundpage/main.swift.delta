@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diffs</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>enigmaMachine.rotorsNumbers = [4, 1, 3]
+
+enigmaMachine.ringSettings = ["T", "I", "M"]
+
+enigmaMachine.plugboardSettings = ["AP", "LE", "MJ", "OK"]
+</string>
+			<key>ModifiedRange</key>
+			<string>{728, 146}</string>
+			<key>OriginalContent</key>
+			<string>enigmaMachine.rotorsNumbers = [&lt;#T##First Rotor Number##Int#&gt;, &lt;#T##Second Rotor Number##Int#&gt;, &lt;#T##Third Rotor Number##Int#&gt;]
+
+enigmaMachine.ringSettings = [&lt;#T##First Ring Setting##String#&gt;, &lt;#T##Second Ring Setting##String#&gt;, &lt;#T##Third Ring Setting##String#&gt;]
+
+enigmaMachine.plugboardSettings = &lt;#T##Insert Plugboard Configuration##[String]#&gt;
+</string>
+			<key>OriginalRange</key>
+			<string>{728, 348}</string>
+		</dict>
+	</array>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
